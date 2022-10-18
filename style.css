@@ -1,0 +1,234 @@
+.line1 {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+.line2 {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+.line3 {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+.navbar {
+    margin: 0;
+    padding: 0%;
+
+    border-left: none;
+}
+
+.navbanam {
+
+    margin-top: 7px;
+    position: absolute;
+    left: 59px;
+    top: 1px;
+    bottom: 34px;
+    height: 34px;
+    text-align: center;
+    color: rgb(235, 113, 0);
+}
+
+.searchbar {
+    border: 3px solid;
+    border-color: rgb(246, 202, 89);
+    margin-top: 19px;
+    width: 390px;
+    height: 42px;
+
+}
+
+.seartit {
+    padding-top: 15px;
+    color: rgba(7, 8, 8, 0.523);
+    padding-right: 23px;
+    position: relative;
+    padding-bottom: 10px;
+    bottom: 5px;
+    left: 12px;
+    text-transform: capitalize;
+
+
+}
+
+.searpng {
+    border: 1px solid rgb(246, 202, 89);
+    width: 29px;
+    height: auto;
+    position: relative;
+    left: 66px;
+    top: 4px;
+
+
+}
+
+.image .imagewo {
+
+    width: 102vw;
+    height: 51vw;
+    object-fit: cover;
+    position: relative;
+    margin-top: 32px;
+    right: 8px;
+}
+
+.searchbar :hover {
+    cursor: cell;
+}
+
+.image-blwtext h3 {
+    margin: 20px auto;
+  
+    position: relative;
+    left: 89px;
+    font-size: 22px;
+    font-family: 'Rubik', sans-serif;
+    
+
+
+}
+.image-blwtext h1{
+    font-family: 'Roboto Slab', serif;
+    position: relative;
+    left: 69px;
+    bottom: 14px;
+    width: 300vw;
+    font-size: 33px;
+    text-decoration: underline rgb(248, 93, 3);
+   
+
+}
+.image-blwtext p{
+
+    width: 350px;
+    height: 38px;
+    position: relative;
+    left: 31px;
+    bottom: 22px;
+    right: 12px;
+    font-family: 'Josefin Sans', sans-serif;
+  
+  
+    
+}
+.btn-below-para{
+    width: 135px;
+    height: 40px;
+    border-radius: 29px;
+    position: relative;
+    left: 126px;
+    bottom: 9px;
+    background-color: rgb(235,113,0);
+    border: none;
+color: aliceblue;
+font-size: 18px;
+font-family: 'Rubik', sans-serif;
+}
+.below-btn{
+    position: relative;
+    left: 37px;
+    width: 455px;
+    height: 22px;
+    font-size: 20px;
+    bottom: 4px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.box{
+    border: 1px solid black;
+    width: 82vw;
+    height: 93vw;
+    display: flex;
+    box-shadow: 2px 2px 2px 1px chocolate;
+    margin-top: 21px;
+    padding-bottom: 10px;
+}
+
+
+.img-bg{
+    width: 485px;
+    object-fit: contain;
+    position: relative;
+    right: 72px;
+    bottom: 99px;
+}
+
+.home{
+    width: 192px;
+    position: relative;
+    bottom: 160px;
+    left: 61px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.desc-h{
+    width: 298px;
+    position: relative;
+    bottom: 173px;
+    text-align: center;
+    right: -16px;
+    font-size: 20px;
+
+}
+.link a{
+    position: relative;
+    bottom: 184px;
+    left: 108px;
+    font-size: 20px;
+}
+
+.box1{
+    border: 1px solid black;
+    width: 82vw;
+    height: 96vw;
+    display: flex;
+   
+    margin-top: -162px;
+    padding-bottom: 10px;
+    border-bottom: none;
+}
+.box2{
+    border: 1px solid black;
+    width: 82vw;
+    height: 97vw;
+    display: flex;
+   
+    margin-top: -162px;
+    padding-bottom: 10px;
+    border-bottom: none;
+}
+.box3{
+    border: 1px solid black;
+    width: 82vw;
+    height: 98vw;
+    display: flex;
+   
+    margin-top: -162px;
+  margin-bottom: none;
+}
+.test .para{
+    position: relative;
+    bottom: 170px;
+    left: 43px;
+    font-size: 14px;
+}
+.btn87 .btn23{
+    width: 98px;
+    height: 34px;
+    border-radius: 20px ;
+    border: none;
+    font-size: 15px;
+    color: rgb(255, 6, 6);
+    background-color: rgba(0, 204, 255, 0.459);
+    position: relative;
+    bottom: 175px;
+    left: 93px;
+    
+}

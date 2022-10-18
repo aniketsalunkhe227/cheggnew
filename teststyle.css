@@ -1,0 +1,40 @@
+.box{
+
+    border: 1px solid black;
+    width: 55vw;
+    height: 79vw;
+    display: flex;
+    box-shadow: 2px 2px 2px 1px chocolate;
+}
+
+
+.img-bg{
+    width: 355px;
+    object-fit: contain;
+    position: relative;
+    right: 65px;
+    bottom: 95px;
+}
+
+.home{
+    width: 179px;
+    border: 1px solid;
+    position: relative;
+    bottom: 154px;
+    left: 24px;
+    font-family: 'Fjalla One', sans-serif;
+}
+.desc-h{
+    width: 219px;
+    
+    position: relative;
+    bottom: 164px;
+    text-align: center;
+    right: -3px;
+}
+.link a{
+    position: relative;
+    bottom: 173px;
+    left: 68px;
+}
+
